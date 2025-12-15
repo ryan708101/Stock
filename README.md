@@ -1,6 +1,10 @@
 # Stock Broker Client Web Dashboard
 
-A real-time stock price monitoring dashboard built with the MERN stack (MongoDB, Express, React, Node.js) and Socket.io for live updates.
+A real-time stock price monitoring dashboard built with the MERN stack
+
+https://github.com/user-attachments/assets/7b89711b-2f0d-4cf9-8df1-cbbca2efbdee
+
+ (MongoDB, Express, React, Node.js) and Socket.io for live updates.
 
 ## Features
 
